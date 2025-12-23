@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{3DBCA470-93EA-415C-9227-132A51BAFBBB}") = "RemoteCamera", "RemoteCamera\RemoteCamera.csproj", "{4C6EC518-4292-42BF-9180-CCE53ABA04CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C6EC518-4292-42BF-9180-CCE53ABA04CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C6EC518-4292-42BF-9180-CCE53ABA04CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C6EC518-4292-42BF-9180-CCE53ABA04CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C6EC518-4292-42BF-9180-CCE53ABA04CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F4BB02A-2ACD-4F31-B92C-64C601BEA7C1}
+	EndGlobalSection
+EndGlobal
